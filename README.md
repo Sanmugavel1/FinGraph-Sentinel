@@ -1,5 +1,7 @@
-#💰 FinGraph Sentinel
-#Graph-Based Money Muling Detection Engine
+# 💰 FinGraph Sentinel
+
+### Graph-Based Money Muling Detection Engine
+
 
 🚀 Live Demo
 
