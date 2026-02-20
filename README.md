@@ -3,9 +3,10 @@
 ### Graph-Based Money Muling Detection Engine
 
 
-🚀 Live Demo
+🚀 Live Demo: https://drive.google.com/file/d/1etZvoJtayvhCNvrlptZyB2DtY8matg97/view?usp=drivesdk
 
 **🔗 Live Application URL:**
+https://fin-graph-sentinel.vercel.app/
 
 Publicly accessible. No authentication required.
 Upload CSV directly from homepage.
