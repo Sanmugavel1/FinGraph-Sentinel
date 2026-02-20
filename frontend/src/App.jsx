@@ -1,8 +1,8 @@
 import { useState, useEffect, useRef } from "react";
 import axios from "axios";
 import ForceGraph2D from "react-force-graph-2d";
+const API_URL = `${import.meta.env.VITE_API_URL}/analyze`;
 
-const API_URL = "https://fingraph-sentinel.onrender.com/analyze";
  // Change later
 
 function App() {
