@@ -2,7 +2,8 @@ import { useState, useEffect, useRef } from "react";
 import axios from "axios";
 import ForceGraph2D from "react-force-graph-2d";
 
-const API_URL = "http://127.0.0.1:8000/analyze"; // Change later
+const API_URL = "https://fingraph-sentinel.onrender.com/analyze";
+ // Change later
 
 function App() {
   const [file, setFile] = useState(null);
